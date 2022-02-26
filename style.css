@@ -1,0 +1,60 @@
+h1{
+color:blue;
+font-size: 50px;
+font-family: 'Courier New'; 
+font-weight: bold;
+text-decoration: underline;
+}
+p{
+     color:brown;
+}
+h2{
+    color:red;
+}
+body{
+    color: blue;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma;
+    font-size: 16px;
+    font-weight: normal;
+}
+ .header-1{ 
+     background-color:blue;
+     height: 150px;
+     color: aliceblue;
+     width: 80%;
+     margin: auto;
+     border-right: 5px;
+     border-radius: 10px;
+
+
+}
+ 
+   .header-1 table{
+       padding-top: 100px;
+
+   }
+
+
+
+.header-1 a{
+    text-decoration: none;
+    color:beige;
+    font-family:Verdana;
+    padding: 10px;
+    background: darkred;
+}
+
+.header-1 a:hover{
+    background-color: aqua;
+    color: black;
+
+}
+.header-1 a:active{
+    color: brown;
+
+
+}.header-1 a:visited{
+    color: blueviolet;
+}
+
